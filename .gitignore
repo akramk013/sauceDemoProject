@@ -1,0 +1,70 @@
+
+### IntelliJ IDEA ###
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Eclipse / IntelliJ IDEA project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test reports (if generated)
+test-output/
+surefire-reports/
+
+# Environment/config files
+.env
+config.properties
+*.secret
+*.key
+
+# Selenium screenshots or downloads (optional)
+screenshots/
+downloads/
+
+# Build tools
+build/
+
+# Coverage reports
+jacoco.exec
+coverage/
+
+# Temporary or backup files
+*.swp
+*~
+
+
+
